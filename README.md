@@ -1,9 +1,8 @@
 # repository-basicbasic
 test basic repository functions
 
-### 이 repository-basic
+### 이 repository-basic는,
 
- ###이 repository는, 
 * Remote repository의 생성 
 * Local로 Clone 
 * Local에서 수정 
