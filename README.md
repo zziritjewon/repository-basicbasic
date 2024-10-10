@@ -8,4 +8,4 @@ test basic repository functions
 * Local에서 수정 
 * Local에서 Commit 
 * Remote로 Push 
-###를 연습하기 위해 만들어졌습니다.
+ ###를 연습하기 위해 만들어졌습니다.
